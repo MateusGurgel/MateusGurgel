@@ -26,8 +26,10 @@
 #
 
 ### 📊 Stats
-
-![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
+<div>
+  ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
+  ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MateusGurgel&theme=gruvbox&border_radius=4.5) -->
 
