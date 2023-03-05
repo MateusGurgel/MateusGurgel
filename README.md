@@ -26,10 +26,9 @@
 #
 
 ### 📊 Stats
-<div>
+
   ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
-  
-</div>
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MateusGurgel&theme=gruvbox&border_radius=4.5) -->
 
