@@ -9,13 +9,12 @@
 
 ### 📊 Stats
 
+<div align="center">
   ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
   ![Mateus Gurgel's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
-  ![Mateus Gurgel's GitHub Streak](https://streak-stats.demolab.com?user=MateusGurgel&theme=midnight-purple&border_radius=4.5) -->
+  ![Mateus Gurgel's GitHub Streak](https://streak-stats.demolab.com?user=MateusGurgel&theme=midnight-purple&border_radius=4.5)
 
 ---
-
-<div align="center">
 
   ### 🧰 Languages, Tools and Frameworks
   
@@ -54,5 +53,3 @@
   <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 
 </div>
-
-#
