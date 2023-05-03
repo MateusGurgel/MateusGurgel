@@ -10,6 +10,10 @@
 ### 🧰 Languages, Tools and Frameworks
 
 <div align="center">
+  <img src="https://github.com/MateusGurgel/kan-ban/blob/main/demo/Kanban_Logo.png" />
+</div>
+
+<div align="center">
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
@@ -45,7 +49,6 @@
 
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   
-
 <div/>
 
 <br />
