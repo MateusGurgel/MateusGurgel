@@ -5,6 +5,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gurgel-554891238) 
 
+<br />
+
+### 📊 Stats
+
+  ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
+  ![Mateus Gurgel's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
+
 ---
 
 <div align="center">
@@ -46,16 +53,6 @@
   <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 
 </div>
-
-<br />
-
-#
-
-### 📊 Stats
-
-  ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
-  ![Mateus Gurgel's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
-
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MateusGurgel&theme=gruvbox&border_radius=4.5) -->
 
