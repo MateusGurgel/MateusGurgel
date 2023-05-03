@@ -9,7 +9,7 @@
 
 ### 🧰 Languages, Tools and Frameworks
 
-<div style="background-color: #0d1117; border: 1px solid white;">
+<div style="background-color: #0d1117; border: 1px solid #fff;">
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
