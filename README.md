@@ -47,6 +47,8 @@
 
 </div>
 
+<br />
+
 ### 📊 Stats
 
   ![Mateus Gurgel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
