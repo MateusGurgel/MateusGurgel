@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Teste</title>
-</head>
-<body>
-	<div style="background-color: #0d1117; border: 1px solid #fff;">
-		<h1>Título da Página</h1>
-		<p>Teste</p>
-	</div>
-</body>
-</html>
-
 # 🎮 Mateus Gurgel
 
 **`Web developer and cyber security enthusiast`**
@@ -22,7 +9,7 @@
 
 ### 🧰 Languages, Tools and Frameworks
 
-<div style="background-color: #0d1117; border: 1px solid #fff;">
+<div align="center">
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
