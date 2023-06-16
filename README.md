@@ -57,4 +57,4 @@
 ### 📊 Stats
 
   ![Mateus Gurgel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
-  ![Mateus Gurgel's GitHub langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
+  ![Mateus Gurgel's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
