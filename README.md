@@ -2,11 +2,6 @@
 
 > _"Code with purpose. Build with vision."_  
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtb2JlcGE4d25sN2JlZmx3aHVwa2h3Z3B0aTdwa2twb3Y0bHg4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H4DjXQXamtTiIuCcRU/giphy.gif" width="300" alt="Coding Forever" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
