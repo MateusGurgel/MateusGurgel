@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=12&theme=midnight-purple&hide_border=true" height="180" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gurgel-554891238)
