@@ -61,9 +61,4 @@
 
 ---
 
-## 🔥 Random Dev Meme
-![Meme](https://github.com/MateusGurgel/MateusGurgel/assets/your-image-path/your-meme.gif)
-
----
-
 > 💡 *“Discipline is the difference between a dream and a plan.”*
