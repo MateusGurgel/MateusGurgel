@@ -46,14 +46,6 @@
 
 ---
 
-## 🎯 Currently Working On
-
-- 🧩 [GoPhysics](https://github.com/MateusGurgel/GoPhysics) – A physics engine built from scratch with **Go + Ebiten**
-- ⚡ Data pipelines with **Spark + MinIO + Prefect + PostgreSQL**
-- 🧪 Game mechanics, render loops and frame capping
-
----
-
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gurgel-554891238)
