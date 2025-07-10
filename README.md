@@ -1,25 +1,75 @@
 # 🎮 Mateus Gurgel
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+> _"Code with purpose. Build with vision."_  
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJtb2JlcGE4d25sN2JlZmx3aHVwa2h3Z3B0aTdwa2twb3Y0bHg4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H4DjXQXamtTiIuCcRU/giphy.gif" width="300" alt="Coding Forever" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🚀 I'm a **software developer**, **data engineer**, and a **game dev dreamer** building games, tools, and systems that **just work**.  
+🧠 Passionate about physics, clean code, and the gritty beauty of low-level control.  
+🌍 Based in **Macapá, Brazil**, and driven by a hunger for mastery.  
+⚙️ **Backend-first**, but I love getting my hands dirty in the full stack — and under the hood.
+
 ---
 
 ## 🚀 Tech Stack
 
-- **Backend**: Go, Python (FastAPI, Flask), Node.js  
-- **Data & ETL**: Apache Spark, Pandas, Prefect, PostgreSQL, MinIO  
-- **DevOps**: Docker, GitHub Actions, VPS
-- **Game Dev**: Go + Ebiten, Unity  
+### 🔧 Languages & Backends
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🧠 Data, ETL & Infra
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C00?style=for-the-badge&logo=minio&logoColor=white)
+
+### 🎮 Game Dev
+![Ebiten](https://img.shields.io/badge/Ebiten-Go%20Game%20Engine-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Mateus Gurgel's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=16&theme=midnight-purple)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MateusGurgel&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGurgel&layout=compact&langs_count=12&theme=midnight-purple&hide_border=true" height="180" />
+</div>
 
 ---
 
-## 🌐 Socials
+## 🎯 Currently Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gurgel-554891238)  
+- 🧩 [GoPhysics](https://github.com/MateusGurgel/GoPhysics) – A physics engine built from scratch with **Go + Ebiten**
+- ⚡ Data pipelines with **Spark + MinIO + Prefect + PostgreSQL**
+- 🧪 Game mechanics, render loops and frame capping
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-gurgel-554891238)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=%23FFA116)](https://leetcode.com/MateusGurgel/)
 
+---
+
+## 🔥 Random Dev Meme
+![Meme](https://github.com/MateusGurgel/MateusGurgel/assets/your-image-path/your-meme.gif)
+
+---
+
+> 💡 *“Discipline is the difference between a dream and a plan.”*
