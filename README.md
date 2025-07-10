@@ -1,6 +1,5 @@
 # 🎮 Mateus Gurgel
 
-> _"Code with purpose. Build with vision."_  
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 ---
 
