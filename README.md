@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm a **software developer**, **data engineer**, and a **game dev dreamer** building games, tools, and systems that **just work**.  
+🚀 I'm a **software developer**, **data scientist**, and a **game dev dreamer** building games, tools, and systems that **just work**.  
 🧠 Passionate about physics, clean code, and the gritty beauty of low-level control.  
 🌍 Based in **Macapá, Brazil**, and driven by a hunger for mastery.  
 ⚙️ **Backend-first**, but I love getting my hands dirty in the full stack — and under the hood.
